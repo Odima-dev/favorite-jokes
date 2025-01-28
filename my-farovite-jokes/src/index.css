@@ -10,5 +10,20 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: orange;
 }
 
+.joke-container {
+  display: grid;
+  padding: 20px 100px;
+  align-items: center;
+  justify-content: center;
+ }
+
+ h3 {
+  font-size: 1.2em;
+  color: orange;
+ }
+ p {
+  font-style: italic;
+ }
