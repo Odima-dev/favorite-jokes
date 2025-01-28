@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <footer>
-            <p> Copyright © 2025 VINCENT ODIMA. All rights</p>
+            <p> Copyright © 2025 VINCENT ODIMA. All rights reserved</p>
         </footer>
     )
 }
